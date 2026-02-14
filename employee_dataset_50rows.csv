@@ -1,0 +1,51 @@
+user_id,Name,Age,Email,Salary,Join_Date,Department,Performance_Score,Location,Job_Title
+1, Sarah Johnson ,28,sarah.j@techcorp.com,95000,2023-01-15,AI,8.5,New York,Senior Engineer
+2,michael chen,  thirty two ,michael at gmail.com,110000 ,15/02/2023,Data Science,9.2,San Francisco,Lead Analyst
+3,EMILY DAVIS,,emily@techcorp,87000,2023/03/10,ai,7.8,NYC,Engineer
+4,James Wilson,twenty nine,james.wilson@company.com,92000,01-04-2023,Machine Learning,8.7,San Francisco,ML Engineer
+5, Robert  Brown ,35,robert@techcorp.com,$125000,2023-05-20,AI , 9.5,New York,Principal Engineer
+6,Jennifer Lee,27,jennifer@@techcorp.com,NaN,2023-06-01,Data science,8.3,Chicago,Data Scientist
+7,Sarah Johnson,28,sarah.j@techcorp.com,95000,2023-01-15,AI,8.5,New York,Senior Engineer
+8,David Kim, 31, ,103000,2023-07-15,ML,nine,Seattle,Senior ML Engineer
+9,Lisa Anderson,26,lisa.anderson@tech.com,88000,2023-08-01,DataScience,8.9,Boston,Data Engineer
+10,,thirty,maria@techcorp.com,94000,2023-09-10,AI,8.6,New York,Engineer
+11,JOHN MARTINEZ, ,john.m@company.com,98000,12th Oct 2023,Artificial Intelligence,8.2,Chicago,Senior Engineer
+12,Amanda White,29,amanda@techcorp.com,  102000  ,2023-11-01,AI/ML,9.1,San Francisco,Tech Lead
+13,Chris Taylor,33,chris@@company.com,115000,2023-12-01,data science,8.8,Seattle,Principal Analyst
+14,Jessica Moore,twenty five,jessica@techcorp.com,85000USD,2024-01-05,AI,7.9,Boston,Junior Engineer
+15,daniel garcia,30,daniel at company.com,99000,2024-02-01,MachineLearning ,8.4,NYC,ML Engineer
+16,PATRICIA THOMAS,34,patricia@tech,120000,2024-02-15,AI,9.3,San Francisco,Staff Engineer
+17,Ryan Harris,28,ryan.h@techcorp.com,96000,10/03/2024,Data Science,8.5,Chicago,Senior Analyst
+18,Michelle Clark,27,michelle@company.com,$91000,2024-03-20,ai,8.1,New York,Engineer
+19,Kevin Rodriguez,  29  ,kevin@@techcorp.com,105000,01-04-2024,ML,9.0,Seattle,Senior Engineer
+20,Laura Lewis,twenty six,laura.lewis@tech.com,87000,2024-04-15,DataScience,7.7,Boston,Data Analyst
+21, Mark  Walker ,32,mark@techcorp.com,NaN,2024-05-01,AI,8.7,San Francisco,Senior Engineer
+22,Angela Hall,28,angela at gmail.com,93000 ,15/05/2024,Data science,eight,NYC,Data Scientist
+23,Thomas Allen,35,thomas@company,112000,2024/06/01,Artificial Intelligence,9.4,Chicago,Principal Engineer
+24,Karen Young,27,karen.y@techcorp.com,89000,05-06-2024,ai,8.3,Seattle,Engineer
+25,Steven King,thirty one,steven@@tech.com,107000,2024-07-10,Machine Learning,8.9,Boston,ML Engineer
+26,DONNA WRIGHT,29,donna@techcorp.com,$98000,2024-07-20,AI/ML,8.6,San Francisco,Tech Lead
+27,Jason Lopez,26,jason.lopez@company.com,  85000  ,2024-08-01,Data Science,7.8,New York,Junior Analyst
+28,Nancy Hill,thirty,nancy at techcorp.com,101000,15th Aug 2024,ai,9.1,Chicago,Senior Engineer
+29,paul scott,28,paul@tech,95000,2024/09/01,DataScience,8.4,Seattle,Data Engineer
+30,,27,betty@techcorp.com,88000,2024-09-15,ML,8.2,Boston,Engineer
+31,Mark Green,33,mark.g@@company.com,118000USD,01-10-2024,Artificial Intelligence,9.2,San Francisco,Staff Engineer
+32,Sandra Adams,twenty eight,sandra@techcorp.com,92000,2024-10-10,AI,8.0,NYC,Engineer
+33,GEORGE BAKER,29,george at company.com,  106000,2024/10/20,Data science,8.8,Chicago,Senior Analyst
+34,Carol Gonzalez,31,carol@tech.com,$99000,2024-11-01,Machine Learning,8.5,Seattle,ML Engineer
+35,Brian Nelson,26,brian@@techcorp.com,NaN,2024-11-15,ai,7.9,Boston,Junior Engineer
+36, Susan  Carter ,thirty two,susan@company.com,114000,01-12-2024,AI/ML,9.3,San Francisco,Principal Engineer
+37,edward mitchell,27,edward.m@techcorp.com,90000 ,15/12/2024,DataScience,8.3,New York,Data Scientist
+38,Margaret Perez,28,margaret at tech.com,97000,2024/12/20,AI,8.7,Chicago,Senior Engineer
+39,JOSEPH ROBERTS,thirty,joseph@@company.com,108000,2025-01-05,Data Science,nine,Seattle,Tech Lead
+40,Lisa Turner,29,lisa.t@techcorp,103000,2025-01-15,Machine Learning,8.6,Boston,Senior ML Engineer
+41,Frank Phillips,27,frank@techcorp.com,$94000,20/01/2025,ai,8.1,San Francisco,Engineer
+42,Helen Campbell,  26  ,helen at company.com,86000,2025/02/01,DataScience,7.8,NYC,Data Analyst
+43,matthew parker,31,matthew@@tech.com,  111000  ,05-02-2025,Artificial Intelligence,9.0,Chicago,Principal Analyst
+44,,twenty nine,elizabeth@techcorp.com,100000USD,2025-02-15,AI/ML,8.8,Seattle,Tech Lead
+45,ANTHONY EVANS,28,anthony@company,96000,2025/03/01,Data science,8.4,Boston,Senior Analyst
+46, Barbara  Edwards ,30,barbara.e@techcorp.com,NaN,10th Mar 2025,Machine Learning,8.9,San Francisco,ML Engineer
+47,kenneth collins,27,kenneth at tech.com,91000 ,2025-03-20,ai,8.2,New York,Engineer
+48,Dorothy Stewart,thirty three,dorothy@@company.com,$104000,01-04-2025,DataScience,9.1,Chicago,Senior Data Scientist
+49,ANDREW SANCHEZ,26,andrew@techcorp.com,87000,2025/04/10,AI,7.7,Seattle,Junior Engineer
+50,donna morris,29,donna.m at company.com,  99000  ,2025-04-20,Data Science,8.5,Boston,Data Analyst

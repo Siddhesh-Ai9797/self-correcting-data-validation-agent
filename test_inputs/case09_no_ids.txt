@@ -1,0 +1,5 @@
+Name: Sarah Connor
+Age: 33
+Dept: Artificial Intelligence
+Salary: 115000
+Performance: 8.7

@@ -1,0 +1,7 @@
+ID: 101
+Name: michael chen
+Age: twenty nine
+Dept: ai
+Salary: $120,000
+Performance: 11
+Email: michael at gmail.com

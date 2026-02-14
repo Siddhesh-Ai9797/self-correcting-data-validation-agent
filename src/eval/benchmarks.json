@@ -1,0 +1,105 @@
+{
+  "dataset_expectations": {
+    "notes": "These benchmarks assume a cleaned dataset with standardized Department values."
+  },
+  "cases": [
+    {
+      "id": "ai_dept_names_including_aiml",
+      "question": "Can you tell me the name of users working in Artificial Intelligence department from all the data entries?",
+      "mode": "spec",
+      "spec": {
+        "select": [
+          "Name"
+        ],
+        "filters": [
+          {
+            "column": "Department",
+            "op": "in",
+            "value": [
+              "Artificial Intelligence",
+              "AI/ML"
+            ]
+          }
+        ],
+        "distinct": true,
+        "limit": 200
+      },
+      "expected": {
+        "type": "set_equals",
+        "column": "Name",
+        "values": [
+          "Sarah Johnson",
+          "Emily Davis",
+          "Robert Brown",
+          "John Martinez",
+          "Amanda White",
+          "Jessica Moore",
+          "Patricia Thomas",
+          "Michelle Clark",
+          "Mark Walker",
+          "Thomas Allen",
+          "Karen Young",
+          "Donna Wright",
+          "Nancy Hill",
+          "Mark Green",
+          "Sandra Adams",
+          "Brian Nelson",
+          "Susan Carter",
+          "Margaret Perez",
+          "Frank Phillips",
+          "Matthew Parker",
+          "Kenneth Collins",
+          "Andrew Sanchez"
+        ]
+      }
+    },
+    {
+      "id": "high_performers_ge_9",
+      "question": "Show employees with performance score >= 9",
+      "mode": "spec",
+      "spec": {
+        "select": [
+          "Name",
+          "Department",
+          "Performance_Score"
+        ],
+        "filters": [
+          {
+            "column": "Performance_Score",
+            "op": "gte",
+            "value": 9
+          }
+        ],
+        "distinct": true,
+        "limit": 200
+      },
+      "expected": {
+        "type": "row_count_gte",
+        "min_rows": 1
+      }
+    },
+    {
+      "id": "salary_missing",
+      "question": "How many employees have missing salary?",
+      "mode": "spec",
+      "spec": {
+        "select": [
+          "Salary"
+        ],
+        "filters": [
+          {
+            "column": "Salary",
+            "op": "eq",
+            "value": null
+          }
+        ],
+        "distinct": false,
+        "limit": 1000
+      },
+      "expected": {
+        "type": "row_count_gte",
+        "min_rows": 1
+      }
+    }
+  ]
+}

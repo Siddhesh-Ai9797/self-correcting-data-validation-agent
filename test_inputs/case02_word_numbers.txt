@@ -1,0 +1,7 @@
+ID: 102
+Name: maria lopez
+Age: thirty two
+Dept: ai
+Salary: $120,000
+Performance: nine
+Email: maria at gmail.com

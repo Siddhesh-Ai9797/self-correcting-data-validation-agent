@@ -1,0 +1,7 @@
+ID: 107
+Name: Emma Watson
+Name: emma watson
+Age: 26
+Dept: DataScience
+Salary: $87000
+Performance: 8.2

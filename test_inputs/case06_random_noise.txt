@@ -1,0 +1,9 @@
+### Employee Record ###
+blah blah
+ID => 106
+Employee Name: robert taylor
+AGE: 31
+Department: machine learning
+salary approx $110,000 per year
+performance rating 8
+END RECORD

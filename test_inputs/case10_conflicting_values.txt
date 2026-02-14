@@ -1,0 +1,7 @@
+ID: 301
+Name: Peter Parker
+Age: 25
+Age: 40
+Dept: AI
+Salary: 70000
+Performance: 6

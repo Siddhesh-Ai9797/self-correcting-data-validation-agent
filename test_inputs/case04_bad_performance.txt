@@ -1,0 +1,7 @@
+ID: 104
+Name: Alice Green
+Age: 27
+Dept: ML
+Salary: 100000
+Performance: 15
+Email: alice@company.com

@@ -1,0 +1,11 @@
+%%%%%%%
+Random text here.
+Employee start.
+ID: 501
+Name: Tony Stark
+Age: genius
+Dept: AI
+Salary: 300000
+Performance: 12
+Email: tony@starkindustries
+END

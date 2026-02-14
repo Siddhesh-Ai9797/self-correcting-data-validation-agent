@@ -1,0 +1,7 @@
+ID: 105
+Name: David Chen
+Age: 29
+Dept: AI/ML
+Salary: 99000
+Join: 14th Feb 2024
+Performance: 7.8
