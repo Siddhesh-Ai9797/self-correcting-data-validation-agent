@@ -72,16 +72,7 @@ streamlit run app.py
 
 ---
 
-## Stress Testing
+# Stress Testing
 python -m src.eval.run_agent_suite
-Results:
-15/15 test cases passed
-100% schema-valid outputs
-No hallucinated required fields
 
 
-
-👨‍💻 Author
-Siddhesh Patil
-M.S. Artificial Intelligence
-DePaul University
