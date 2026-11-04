@@ -1,4 +1,6 @@
 # 🤖 Self-Correcting Data Validation Agent
+
+[![CI](https://github.com/Siddhesh-Ai9797/self-correcting-data-validation-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Siddhesh-Ai9797/self-correcting-data-validation-agent/actions/workflows/ci.yml)
 ### Schema-Enforced, No-Hallucination Agentic Data Pipeline
 
 A production-style AI system that converts messy employee text into schema-valid JSON using:
